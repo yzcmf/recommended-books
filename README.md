@@ -1,3 +1,6 @@
+补充内容: 
+1.https://github.com/yzcmf/os_course_info
+
 # 计算机经典书籍推荐
 
 ### 书的链接被百度网盘封了 现在打算将一些容量小的书上传到 github，超过 100M 书无法上传，只保留书名
